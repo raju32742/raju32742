@@ -1,5 +1,5 @@
 <h2 align="center"> S M Taslim Uddin Raju </h2>
-<h2 align="center"> Machine Learning Graduate Reseacher, Teacher, Programmer</h2>
+<h3 align="center"> Machine Learning Graduate Reseacher, Teacher, Programmer</h3>
 
 
 Profile stats              |  Language Contribution

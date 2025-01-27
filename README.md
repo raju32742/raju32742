@@ -1,13 +1,13 @@
 <h2 align="center"> S M Taslim Uddin Raju </h2>
 <h3 align="center"> Machine Learning Graduate Reseacher, Teacher, Programmer</h3>
 
-
+https://www.instagram.com/raju32742/
 ### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/raju32742/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dddd" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ddd" height="30" width="40" /></a>
-<a href="https://fb.com/dddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dddd" height="30" width="40" /></a>
-<a href="https://instagram.com/ddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ddd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raju32742/" target="blank"><img align="center" src="Social/linked-in-alt.svg" alt="dddd" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/5591214/raju" target="blank"><img align="center" src="Social/stack-overflow.svg" alt="ddd" height="30" width="40" /></a>
+<a href="https://www.facebook.com/raju32742/" target="blank"><img align="center" src="Social/facebook.svg" alt="dddd" height="30" width="40" /></a>
+<a href="https://instagram.com/raju32742/" target="blank"><img align="center" src="Social/instagram.svg" alt="ddd" height="30" width="40" /></a>
 </p>
 
 Profile stats              |  Language Contribution

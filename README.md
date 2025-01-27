@@ -1,7 +1,6 @@
 <h2 align="center"> S M Taslim Uddin Raju </h2>
 <h3 align="center"> Machine Learning Graduate Reseacher, Teacher, Programmer</h3>
 
-https://www.instagram.com/raju32742/
 ### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/raju32742/" target="blank"><img align="center" src="Social/linked-in-alt.svg" alt="dddd" height="30" width="40" /></a>

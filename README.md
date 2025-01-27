@@ -1,5 +1,6 @@
 <h2 align="center"> S M Taslim Uddin Raju </h2>
 <h3 align="center"> Machine Learning Graduate Reseacher, Teacher, Programmer</h3>
+<hr style="border: 2px solid black;"> <!-- This adds a bold horizontal line -->
 
 ### Connect with me:
 <p align="left">

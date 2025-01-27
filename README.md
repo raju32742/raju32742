@@ -2,6 +2,10 @@
 <h3 align="center"> Machine Learning Graduate Reseacher, Machine Learning for Healthcare, Teacher</h3>
 <hr style="border: 2px solid black;"> <!-- This adds a bold horizontal line -->
 
+I am an MASc student in the Department of Electrical and Computer Engineering (ECE) at the [University of Waterloo (UW)](https://uwaterloo.ca/), Canada. 
+
+Currently, I am conducting research in the [Centre for Pattern Analysis and Machine Intelligence (CPAMI)](https://uwaterloo.ca/centre-pattern-analysis-machine-intelligence/) Lab, focusing on Digital Pathology (whole slide Image analysis) and Large Language Models (LLMs).
+
 ### Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/raju32742/" target="blank"><img align="center" src="Social/web1.png" alt="dddd" height="30" width="30" /></a>

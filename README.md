@@ -1,7 +1,5 @@
 <h2 align="center"> S M Taslim Uddin Raju </h2>
  <!-- <h3 align="center"> Machine Learning Graduate Reseacher, Machine Learning for Healthcare, Teacher</h3>   -->
-<hr style="border: 2px solid black;"> 
-
 <h4 align="center"> Generative AI, Digital Pathology, Large Language Model, Machine Learning, Deep Learning, Medical Imaging </h4>
 <hr style="border: 2px solid black;"> 
 

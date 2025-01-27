@@ -11,7 +11,7 @@
 <a href="https://scholar.google.ca/citations?user=ToadRS8AAAAJ&hl=en" target="blank"><img align="center" src="Social/google_scolar.png" alt="dddd" height="35" width="35" /></a>
 </p>
 
-### Languages and Tools: 
+<h3 align="left"> Languages and Tools: </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
   <img width="12" />

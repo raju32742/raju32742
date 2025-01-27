@@ -3,6 +3,7 @@
 
 ### Connect with me:
 <p align="left">
+  <a href="https://linkedin.com/in/raju32742/" target="blank"><img align="center" src="Social/web1.png" alt="dddd" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/raju32742/" target="blank"><img align="center" src="Social/linked-in-alt.svg" alt="dddd" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5591214/raju" target="blank"><img align="center" src="Social/stack-overflow.svg" alt="ddd" height="30" width="40" /></a>
 <a href="https://www.facebook.com/raju32742/" target="blank"><img align="center" src="Social/facebook.svg" alt="dddd" height="30" width="40" /></a>

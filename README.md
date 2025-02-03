@@ -1,11 +1,11 @@
 <h2 align="center"> S M Taslim Uddin Raju </h2>
  <!-- <h3 align="center"> Machine Learning Graduate Reseacher, Machine Learning for Healthcare, Teacher</h3>   -->
-<h4 align="center"> Generative AI, Digital Pathology, Large Language Model, Machine Learning, Deep Learning, Medical Imaging </h4>
+<h4 align="center"> Generative AI, Digital Pathology, Large Language Model, Machine Learning/Deep Learning, Medical Imaging </h4>
 <hr style="border: 2px solid black;"> 
 
 I am an MASc student in the Department of Electrical and Computer Engineering (ECE) at the [University of Waterloo (UW)](https://uwaterloo.ca/), Canada. 
 
-Currently, I am conducting research in the [Centre for Pattern Analysis and Machine Intelligence (CPAMI)](https://uwaterloo.ca/centre-pattern-analysis-machine-intelligence/) Lab, focusing on Digital Pathology (whole slide Image analysis) and Large Language Models (LLMs).
+Currently, I am conducting research in the [Centre for Pattern Analysis and Machine Intelligence (CPAMI)](https://uwaterloo.ca/centre-pattern-analysis-machine-intelligence/) Lab, focusing on Digital Pathology (whole slide Image analysis), Generative AI and Large Language Models (LLMs).
 
 ### Connect with me:
 <p align="left">
